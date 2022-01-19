@@ -1,8 +1,6 @@
 # Tejaswi Avula
 
-<img class='img-circle' src="teja.jpg" alt="drawing" width="150" style="border-radius:50%" />  
-
-[Tejaswi Avula](https://github.com/tejaavula)
+This is my big-data development repository
 
 ## Current
  - Iam in the final semester of my master's degree in Applied Computer Science
@@ -22,3 +20,6 @@
  [LinkedIn profile](https://www.linkedin.com/in/tejaswi-avula-40296a209/)
 
  [GitHub profile](https://github.com/tejaavula)
+
+<img class='img-circle' src="teja.jpg" alt="drawing" width="150" style="border-radius:50%" />  
+
