@@ -1,6 +1,6 @@
 # Tejaswi Avula
 
-<img class='img-circle' src="images/teja.jpg" alt="drawing" width="150" style="border-radius:50%" />  
+<img class='img-circle' src="teja.jpg" alt="drawing" width="150" style="border-radius:50%" />  
 
 [Tejaswi Avula](https://github.com/tejaavula)
 
